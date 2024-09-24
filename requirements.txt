@@ -1,0 +1,6 @@
+
+### 2. Arquivo `requirements.txt`
+Este arquivo lista as dependências necessárias para o projeto. Para o nosso caso, o único requisito é a biblioteca `Faker`.
+
+```txt
+Faker
